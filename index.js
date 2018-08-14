@@ -2,7 +2,7 @@ var fs = require('fs')
 var prettyBytes = require('prettier-bytes')
 var neatLog = require('neat-log')
 var output = require('neat-log/output')
-var Dat = require('dat-node')
+var Dat = require('@jimpick/dat-node')
 var ram = require('random-access-memory')
 
 module.exports = function (opts) {

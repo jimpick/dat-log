@@ -1,7 +1,7 @@
 {
-  "name": "dat-log",
+  "name": "@jimpick/dat-log",
   "description": "view history of dat in the cli",
-  "version": "1.2.0",
+  "version": "1.2.0-1",
   "author": "Joe Hand <joe@hand.email>",
   "bugs": {
     "url": "https://github.com/joehand/dat-log/issues"
@@ -27,7 +27,7 @@
     "test": "standard"
   },
   "dependencies": {
-    "dat-node": "^3.3.1",
+    "@jimpick/dat-node": "^3.5.11-4",
     "minimist": "^1.2.0",
     "neat-log": "^2.4.0",
     "prettier-bytes": "^1.0.4",
