@@ -1,7 +1,7 @@
 {
   "name": "@jimpick/dat-log",
   "description": "view history of dat in the cli",
-  "version": "1.2.0-1",
+  "version": "1.2.0-2",
   "author": "Joe Hand <joe@hand.email>",
   "bugs": {
     "url": "https://github.com/joehand/dat-log/issues"
